@@ -51,8 +51,7 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReGoCnS&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de ReGoCnS" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReGoCnS&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+  <img src="https://streak-stats.demolab.com/?user=ReGoCnS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
