@@ -7,8 +7,9 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 ### 🚀 Sobre mí
 * 💼 Enfocado en oportunidades como **Junior Software Developer / Backend / Full-Stack**.
 * 📱 Experiencia creando aplicaciones multiplataforma y web con **Flutter**.
+* 🌐 Desarrollo frontend con **JavaScript, HTML5 y CSS3**.
 * ⚙️ Construcción y consumo de servicios backend con **Flask (Python)** y **PHP**.
-* 🐧 Entorno de trabajo habitual en **Linux** y conceptos basicos de contenedores con **Docker**.
+* 🐧 Entorno de trabajo habitual en **Linux** y conceptos básicos de contenedores con **Docker**.
 * 🌍 Nivel de inglés intermedio (B1).
 
 ---
@@ -16,6 +17,9 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes y Frameworks:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,6 +46,7 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 * 📦 **Ganesha**: Aplicación web para control de inventario y gestión vehicular construida en Flutter Web conectada a Firebase Firestore.
 * 🎵 **[spotifyrgcs](https://github.com/ReGoCnS/spotifyrgcs)**: Progressive Web App (PWA) inspirada en Spotify con reproducción multimedia y soporte offline.
 * 🌤️ **[clima_rgcs](https://github.com/ReGoCnS/clima_rgcs)**: Aplicación web interactiva para consulta meteorológica en tiempo real mediante consumo asíncrono de APIs REST.
+
 ---
 
 ### 📊 Estadísticas de GitHub
@@ -53,4 +58,4 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 ---
 
 ### 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/reyli-goethe-cisneros-sanchez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyli-goethe-cisneros-sanchez)
