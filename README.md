@@ -40,8 +40,8 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 ### 📂 Proyectos Destacados
 * 🏋️ **ValkiriaFit**: Sistema de gestión, reservas y horarios para centros deportivos desarrollado con Flutter, backend en PHP y base de datos MySQL.
 * 📦 **Ganesha**: Aplicación web para control de inventario y gestión vehicular construida en Flutter Web conectada a Firebase Firestore.
-* 🎵 **[spotifyrgcs](https://github.com/ReGoCnS/spotifyrgcs)**: Progressive Web App (PWA) inspirada en la interfaz y reproducción de Spotify, desplegada y disponible para probar en la web.
-
+* 🎵 **[spotifyrgcs](https://github.com/ReGoCnS/spotifyrgcs)**: Progressive Web App (PWA) inspirada en Spotify con reproducción multimedia y soporte offline.
+* 🌤️ **[clima_rgcs](https://github.com/ReGoCnS/clima_rgcs)**: Aplicación web interactiva para consulta meteorológica en tiempo real mediante consumo asíncrono de APIs REST.
 ---
 
 ### 📊 Estadísticas de GitHub
