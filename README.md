@@ -46,6 +46,7 @@ Soy **Licenciado en Tecnologías de la Información** y **Desarrollador de Softw
 * 📦 **Ganesha**: Aplicación web para control de inventario y gestión vehicular construida en Flutter Web conectada a Firebase Firestore.
 * 🎵 **[spotifyrgcs](https://github.com/ReGoCnS/spotifyrgcs)**: Progressive Web App (PWA) inspirada en Spotify con reproducción multimedia y soporte offline.
 * 🌤️ **[clima_rgcs](https://github.com/ReGoCnS/clima_rgcs)**: Aplicación web interactiva para consulta meteorológica en tiempo real mediante consumo asíncrono de APIs REST.
+* 🍦 **[heladeria_rgcs](https://github.com/ReGoCnS/heladeria_rgcs)**: Sitio web interactivo para heladería con catálogo de productos y diseño responsivo en HTML5, CSS3 y JavaScript.
 
 ---
 
